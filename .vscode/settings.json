@@ -1,0 +1,11 @@
+{
+    "maven.showInExplorerContextMenu": true,
+    "maven.pomfile.autoUpdateEffectivePOM": true,
+    "maven.excludedFolders": [
+        "**/.*",
+        "**/node_modules",
+        "**/target",
+        "**/bin",
+        "**/archetype-resources"
+    ]
+}
