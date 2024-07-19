@@ -1,0 +1,17 @@
+# Java
+*.class
+
+# Maven
+target/
+
+# VSCode
+.vscode/
+
+# IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
